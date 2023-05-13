@@ -6,6 +6,7 @@
  - İnanıyorum ki en çok kullanılan kelimeler bilindiğinde gramer öğrenmek daha kolay bir hal alıyor, bu kapsamda önce kelimeleri ezberlemek mantıklı oluyor.
  - Önerim : kartların altına cevapları yazarak tekrar ederseniz, akılda kalıcılığı daha fazla olacaktır.
  
- Projeye erişmek için :  [kelimezberle.netlify.app](https://kelimezberle.netlify.app/)
+ Projeye erişmek için :  <a href="https://kelimezberle.netlify.app/" target="_blank">kelimezberle.netlify.app</a>
+
 
 **Herkese iyi çalışmalar!**
