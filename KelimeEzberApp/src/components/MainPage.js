@@ -2,7 +2,7 @@
 
 import { Link } from 'react-router-dom'
 
-import Img1 from '../images/programming-code-signs.png'
+
 import Img2 from '../images/gmail.png'
 import Img3 from '../images/github (1).png'
 import Img4 from '../images/linkedin.png'
