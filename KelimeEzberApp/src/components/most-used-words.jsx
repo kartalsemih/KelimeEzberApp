@@ -7179,7 +7179,14 @@ function MostUsedWords() {
             <div className="container">
 
                 <h1 style={{ color: '#fff' }} className='text-center mt-3'>En Çok Kullanılan <span style={{ color: '#F45050' }}>1000</span> Kelime</h1>
-                <Link style={{ textDecoration: 'none' }} className='d-flex justify-content-center m-3' to='/'> <button style={{ textTransform: 'none', letterSpacing: '0px', }} className='btn btn-secondary btn-sm'>Anasayfa</button></Link>
+      
+                <div style={{ display: 'flex', justifyContent: 'center', marginBottom:'10px' }}>
+                    <Link to='/' style={{ textDecoration: 'none' }}>
+                        <button style={{ textTransform: 'none', letterSpacing: '0px' }} className='btn btn-secondary btn-sm'>
+                            Anasayfa
+                        </button>
+                    </Link>
+                </div>
 
 
 
